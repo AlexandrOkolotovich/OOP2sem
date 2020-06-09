@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="University" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAQAEAAIAAAAAAIAAAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Information" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEEAAAAAAAAAAAAAAAAAAAAAAAAAABCAAAAAAAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staff">
+    <Position X="3.25" Y="1.75" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Staff::ptype" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Header.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="Staff::Administration">
+        <NestedTypes>
+          <Enum Name="Staff::Administration::atype" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Header.h</NewMemberFileName>
+            </TypeIdentifier>
+          </Enum>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>Header.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Staff::Lectuter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Header.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Staff::TechnicalStaff" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Header.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Staff::Employee">
+        <Compartments>
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Class Name="Staff::Employee::Date" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Header.h</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>Header.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAEACAAAAAAAAIACIAAAAACEAACCCJSAAAAACABA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

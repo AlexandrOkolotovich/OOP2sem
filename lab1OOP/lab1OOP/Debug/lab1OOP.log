@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\Учёба\4 семестр\ООП\lab1OOP\lab1OOP\Header.h(52,15): error C3646: unredo: неизвестный спецификатор переопределения
+D:\Учёба\4 семестр\ООП\lab1OOP\lab1OOP\Header.h(52,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  redactor.cpp
+D:\Учёба\4 семестр\ООП\lab1OOP\lab1OOP\Header.h(52,15): error C3646: unredo: неизвестный спецификатор переопределения
+D:\Учёба\4 семестр\ООП\lab1OOP\lab1OOP\Header.h(52,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Учёба\4 семестр\ООП\lab1OOP\lab1OOP\redactor.cpp(35,2): error C2065: unredo: необъявленный идентификатор
+D:\Учёба\4 семестр\ООП\lab1OOP\lab1OOP\redactor.cpp(84,6): error C2065: unredo: необъявленный идентификатор
+D:\Учёба\4 семестр\ООП\lab1OOP\lab1OOP\redactor.cpp(85,3): error C2065: unredo: необъявленный идентификатор
+D:\Учёба\4 семестр\ООП\lab1OOP\lab1OOP\redactor.cpp(86,10): error C2065: unredo: необъявленный идентификатор
+D:\Учёба\4 семестр\ООП\lab1OOP\lab1OOP\redactor.cpp(91,6): error C2065: unredo: необъявленный идентификатор
+D:\Учёба\4 семестр\ООП\lab1OOP\lab1OOP\redactor.cpp(92,3): error C2065: unredo: необъявленный идентификатор
+D:\Учёба\4 семестр\ООП\lab1OOP\lab1OOP\redactor.cpp(93,10): error C2065: unredo: необъявленный идентификатор
+  Создание кода...

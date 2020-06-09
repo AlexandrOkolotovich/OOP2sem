@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Учёба\4 семестр\ООП\lab5OOP\lab5OOP\Source.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Учёба\4 семестр\ООП\lab5OOP\lab5OOP\Source.cpp(328): warning C4715: get_find_result: значение возвращается не при всех путях выполнения
+D:\Учёба\4 семестр\ООП\lab5OOP\lab5OOP\Header.h(76): warning C4715: Check<int>: значение возвращается не при всех путях выполнения
+  lab5OOP.vcxproj -> D:\Учёба\4 семестр\ООП\lab5OOP\Debug\lab5OOP.exe
